@@ -1,4 +1,4 @@
-# Akıllı Kapı Kilidi
+# IoT-SmartEntry
 
 ## 1. Proje Konusu
 Bu proje, **RFID tabanlı bir IoT kapı kilidi sistemidir**. Yetkilendirilmiş RFID kartları kullanılarak kapı kilidi açılabilecek ve giriş-çıkış bilgileri **Firebase üzerinden kaydedilip bilgisayara bildirim olarak iletilecektir**.

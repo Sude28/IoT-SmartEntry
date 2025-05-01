@@ -36,21 +36,37 @@ RFID karttan UID alınır → JSON formatına çevrilir → Python’a iletilir 
 - ☁️ Firebase ile veri bağlantısı kurularak veri gönderimi sağlandı.
 - 📷 Görseller:
   -  Devre Bağlantısı
-  - ![Devre Bağlantısı](Figure/Fig1_Baglanti_Semasi.webp)
-  - Gerçek Kurulum
-  - ![Gerçek Kurulum](Figure/Fig2_Breadboard_Foto.jpg)
-  - Akış Diyagramı
-  - ![Akış Diyagramı](Figure/Fig3_Sistem_Akisi.jpg)
-  - Serial Çıktı
-  - ![Serial Çıktı](Figure/Fig4_SerialMonitor.jpg)
-  - Python GUI
-  - ![Python GUI](Figure/Fig5_GUI_Ekrani.jpg)
-  - Firebase
-  - ![Firebase](Figure/Fig6_Firebase_Ekrani.png)
-  - Yeşil LED
-  - ![Yeşil LED](Figure/Fig7_LED_Yesil.jpg)
-  - Kırmızı LED
-  - ![Kırmızı LED](Figure/Fig8_LED_Kirmizi.jpg)
+  <p align="center">
+  <img src="Figure/Fig1_Baglanti_Semasi.webp" alt="Devre Bağlantısı" width="600" height="400"/>
+  </p>
+  -  Gerçek Kurulum
+  <p align="center">
+  <img src="Figure/Fig2_Breadboard_Foto.jpg" alt="Gerçek Kurulum" width="500" height="400"/>
+  </p>
+  -  Akış Diyagramı
+  <p align="center">
+  <img src="Figure/Fig3_Sistem_Akisi.jpg" alt="Akış Diyagramı" width="500" height="400"/>
+  </p>
+  -  Serial Çıktı
+  <p align="center">
+  <img src="Figure/Fig4_SerialMonitor.jpg" alt="Serial Çıktı" width="500" height="400"/>
+  </p>
+  -  Python GUI
+  <p align="center">
+  <img src="Figure/Fig5_GUI_Ekrani.jpg" alt="Python GUI" width="300" height="500"/>
+  </p>
+  -  Firebase
+  <p align="center">
+  <img src="Figure/Fig6_Firebase_Ekrani.png" alt="Firebase" width="700" height="400" />
+  </p>
+  -  Yeşil LED
+  <p align="center">
+  <img src="Figure/Fig7_LED_Yesil.jpg" alt="Yeşil LED" width="400" height="400"/>
+  </p>
+  -  Kırmızı LED
+  <p align="center">
+  <img src="Figure/Fig8_LED_Kirmizi.jpg" alt="Kırmızı LED" width="400" height="400"/>
+  </p>
 
 ## 5. Elde Edilen Sonuçlar
 - Kart UID'leri başarıyla okunmuş ve eşleştirilmiştir.
